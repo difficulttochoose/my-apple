@@ -1,0 +1,44 @@
+.footer{
+	background: #303030;
+}
+.foot{
+	width: 80%;
+	color:#ccc;
+	font-size: 9pt;
+}
+.foot img{
+	width: 40px;
+	padding-top: 50px;
+}
+.infoinfo{
+	line-height: 190%;
+	padding-top: 25px;
+}
+.infoinfo h6{
+	color:#fff;
+	font-weight: 700;
+	font-size: 10pt;
+}
+.infoinfo ul{
+	padding:0px;
+}
+.infoinfo ul li{
+	list-style: none;
+}
+.adressadress{
+	line-height: 190%;
+	padding-top: 40px;
+}
+.tels{
+	padding-top: 50px;
+}
+.tels a{
+	font-size: 10pt;
+	color:#ccc;
+	line-height: 150%;
+}
+hr{
+	height: 1px;
+	color:#ccc;
+	border-top: 0px;
+}

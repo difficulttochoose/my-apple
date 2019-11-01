@@ -1,0 +1,15 @@
+.butphone{
+	width: 80px!important;
+	height: 80px!important;
+	background: #3498db!important;
+	border-radius: 50%!important;
+	border-color:#3498db!important;
+	position: fixed;
+	right: 100px;
+	bottom: 70px;
+	outline: none!important;
+	z-index: 1000;
+}
+.butphone span{
+	font-size: 40px;
+}

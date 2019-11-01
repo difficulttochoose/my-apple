@@ -1,0 +1,54 @@
+.dialogmod{
+	height: 300px;
+	top:130px;
+}
+.floatwindow{
+	background: rgba(255,255,255,0.62)!important;
+	box-shadow:0 5px 15px rgba(255,255,255,1)!important;
+}
+.floathead{
+	border-bottom:0px solid transparent!important;
+}
+.floatbody p{
+	font-size: 20px;
+	font-weight: 700;
+	color:#3c3c3c;
+	text-align: center;
+	margin-bottom: 40px;
+	text-shadow: 0 0 5px rgba(255,255,255,1)!important;
+}
+.floatfoot{
+	border-top:0px solid transparent!important;
+	height: 95px;
+	width: 100%;
+	position: relative;
+}
+.floatfoot button{
+	background: #ff6700;
+	border-color: transparent;
+	border-radius: 40px;
+	height: 40px;
+	width: 200px;
+	position: absolute;
+	top:0px;
+	left: 199px;
+	right: 199px;
+	box-shadow: 0 5px 15px rgba(255,255,255,1)!important;
+	text-shadow: 0 0 10px rgba(255,255,255,1)!important;
+	outline: none!important;
+}
+.floatfoot button:hover{
+	background: #ff0000;
+	border-color: transparent;
+	box-shadow: 10px 10px 30px rgba(255,255,255,1)!important;
+	text-shadow: 0 0 5px rgba(255,255,255,1)!important;
+}
+.phonephone{
+	width: 70%;
+	margin: auto;
+	box-shadow: 0 5px 15px rgba(255,255,255,1)!important;
+}
+.phonephone input{
+	height: 40px;
+	font-size: 20px;
+}
